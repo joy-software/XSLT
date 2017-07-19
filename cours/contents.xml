@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cours nodepos="1">
+<Titre nodepos="1"> Cours : Structuration des contenus d’apprentissage </Titre>
+<Notion type="preambule" nodepos="1"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Partie nodepos="3">
+<Titre nodepos="3"> Partie 1. Introduction Générale </Titre>
+<Notion type="preambule" nodepos="3"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Chapitre nodepos="5">
+<Titre nodepos="5"> Chapitre 1 : Contexte </Titre>
+<Notion type="preambule" nodepos="5"> 
+<Titre> </Titre>
+<Contenu> 
+<Texte nodepos="7">L’intégration pédagogique des technologies de l’information et de la communication, ainsi que la vulgarisation des accès à la Formation Ouverte et A Distance (FOAD) ont accompagné l’évolution sociale et technique des dernières décennies. Ils ont considérablement rénové les méthodes d’apprentissage traditionnelles, laissant transparaitre au fil des années, des exigences allant de la mise en œuvre d’une pédagogie de distance à la conception des contenus d’apprentissage adéquats.</Texte>
+</Contenu> 
+</Notion> 
+<Paragraphe nodepos="9">
+<Titre nodepos="9"> Paragraphe 1 </Titre>
+<Notion type="preambule" nodepos="9"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Notion type="notion" nodepos="11">
+<Titre nodepos="11"> 1.1 Notion 1 </Titre>
+<Contenu nodepos="11">
+<Texte nodepos="13"> En effet, la spécificité et le contexte particulier de l’éducation en Afrique ont fait l’objet de nombreux écrits mettant en évidence des difficultés en termes d’accès à l’éducation (Braimoh et Osiki, 2008). Il existe des décalages entre la capacité d’accueil des locaux universitaires et le nombre d’étudiants, de même qu’entre ce dernier et le nombre d’enseignants (Karsenti, 2009). Ce sont ces insuffisances qui ont été le facteur de mobilisation des organismes internationaux tels que l’AUF (Agence Universitaire de la Francophonie) et qui ont incité la création des CNF. Les CNF peuvent être définis comme étant une structure mise en place par l’AUF au sein d’un établissement membre de l’Agence qui constitue à la fois un lieu d’accès à l’information scientifique et technique, un espace de formation à la méthodologie et à l’usage des TIC, et un moyen d’accès à la formation ouverte et à distance (FOAD), le tout à travers des ressources techniques (ordinateurs, logiciels, matériel de visioconférence), éducatives (documents primaires, bases de données scientifiques), pédagogiques (documents et matériels de formations) et humaines (présence de professionnels formés à l’accompagnement) (Loiret, 2007).  </Texte>
+<Texte nodepos="15">    </Texte>
+<Texte nodepos="17">    </Texte>
+<Texte nodepos="19">    </Texte>
+</Contenu>
+</Notion>
+<Notion type="notion" nodepos="21">
+<Titre nodepos="21"> 1.2 Notion 2 </Titre>
+<Contenu nodepos="21">
+<Texte nodepos="23"> Le rapport 2012 de l’Agence Universitaire de la Francophonie (AUF) pour la FOAD évalue à 69 500 le nombre de candidatures déposées depuis 2004 pour suivre une formation en ligne dans leurs CNF, avec une évolution des candidatures de 2006 à 2011, de 8077 à 12375. Ces chiffres témoignent de la place grandissante qu’occupe actuellement la FOAD dans notre quotidien éducatif. </Texte>
+<image height="5.394cm" width="16.115cm" src="0.gif" nodepos="25"></image>
+</Contenu>
+</Notion>
+</Paragraphe>
+<Paragraphe nodepos="27">
+<Titre nodepos="27"> Paragraphe 2 </Titre>
+<Notion type="preambule" nodepos="27"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Notion type="notion" nodepos="29">
+<Titre nodepos="29"> 2.1 Notion 1 </Titre>
+<Contenu nodepos="29">
+<Texte nodepos="31"> Un certain nombre d’acteurs interviennent dans ce processus : les apprenants, les formateurs, les tuteurs et bien sûr les auteurs à qui il incombe le plus souvent la tâche de scénarisation des contenus. </Texte>
+</Contenu>
+</Notion>
+</Paragraphe>
+</Chapitre>
+<Chapitre nodepos="33">
+<Titre nodepos="33"> Chapitre 2. Problématique et positionnement </Titre>
+<Notion type="preambule" nodepos="33"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Paragraphe nodepos="35">
+<Titre nodepos="35"> Paragraphe 1 </Titre>
+<Notion type="preambule" nodepos="35"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Notion type="notion" nodepos="37">
+<Titre nodepos="37"> Notion 1 </Titre>
+<Contenu nodepos="37">
+<Texte nodepos="39"> Le Campus virtuel REFPEED (Réseau Francophone des Pays d’Europe de l’Est d’Enseignement à Distance) définit la scénarisation des contenus comme étant un travail de conception et de création qui revient à modifier les contenus déjà existants sous une forme traditionnelle (Word, PDF…) afin de les adapter à un support de diffusion en ligne. Ainsi, ce qui est utilisé lors d’un exercice en présentiel doit souvent être retravaillé pour pouvoir faire l’objet d’une activité en ligne. Dans le cadre de la formation en ligne, les auteurs de contenus sont les principaux acteurs du processus de scénarisation. Pour scénariser des contenus aux formats .DOC ou .PDF, ils sont souvent aux prises à des copier/coller permanents. Cependant, face au besoin grandissant de massification des formations traitant des milliers de pages de documents pour des milliers d’apprenants, les méthodes de scénarisation artisanales ne semblent plus adaptées. Dans un tel contexte, il s’avère capital de réduire la charge de travail des auteurs en automatisant le processus de scénarisation des contenus. </Texte>
+</Contenu>
+</Notion>
+<Notion type="notion" nodepos="41">
+<Titre nodepos="41"> Notion 2 </Titre>
+<Contenu nodepos="41">
+<Texte nodepos="43"> Nous faisons l’hypothèse qu’il serait possible de réduire la charge de travail des auteurs en appliquant l’auto-scénarisation des contenus. Imaginons un scénario où un auteur soumet à un système d’auto-scénarisation un contenu au format .DOC en spécifiant le standard de sortie requis (SCORM par exemple). Après transformation, le système génère un fichier dans le standard souhaité par l’auteur. Ce dernier n’aura plus que quelques ajustements à faire sur la forme du support avant de l’intégrer à son environnement de formation en ligne. La concrétisation d’un tel scénario demande la maitrise de la structure interne des contenus d’apprentissage. </Texte>
+<image height="2.328cm" width="15.767cm" src="1.gif" nodepos="45"></image>
+</Contenu>
+</Notion>
+<Notion type="notion" nodepos="47">
+<Titre nodepos="47"> 1.3 Notion 3 </Titre>
+<Contenu nodepos="47">
+<Texte nodepos="49"> La question sous-jacente est donc la suivante : Comment établir une représentation formelle de la structure des contenus d’apprentissage en vue de préparer leur auto-scénarisation ? </Texte>
+</Contenu>
+</Notion>
+</Paragraphe>
+</Chapitre>
+<Chapitre nodepos="51">
+<Titre nodepos="51"> Chapitre 3. Objectifs et méthodologie </Titre>
+<Notion type="preambule" nodepos="51"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Paragraphe nodepos="53">
+<Titre nodepos="53"> Paragraphe 1 </Titre>
+<Notion type="preambule" nodepos="53"> 
+<Titre> </Titre>
+<Contenu> 
+<Texte nodepos="55">L’objectif principal de ce mémoire est de réduire la charge de travail des auteurs de contenus de formation en ligne tout en optimisant la charge cognitive des apprenants qui exploiteront ces contenus. </Texte>
+</Contenu> 
+</Notion> 
+<Notion type="notion" nodepos="57">
+<Titre nodepos="57"> Notion 1 </Titre>
+<Contenu nodepos="57">
+<Texte nodepos="59"> Plus précisément, notre objectif est de rendre possible l’auto-scénarisation des contenus, de produire des contenus granulaires, évolutifs et interopérables, de faciliter leur intégration au sein des plateformes de formation et de permettre leur réutilisation lors des processus de composition de nouveaux contenus à partir de ressources préexistantes. </Texte>
+</Contenu>
+</Notion>
+<Notion type="notion" nodepos="61">
+<Titre nodepos="61"> 1.2 Notion 2 </Titre>
+<Contenu nodepos="61">
+<Texte nodepos="63"> Pour atteindre cet objectif, </Texte>
+<ul nodepos="65">
+<li>Nous définissons le modèle des contenus structurés ;</li>
+<li>Nous analysons, puis interprétons les propriétés du modèle défini ;</li>
+<li>Nous élaborons une méthode de structuration des contenus d’apprentissage pour les environnements de formation ;</li>
+</ul>
+<Texte nodepos="67">    </Texte>
+</Contenu>
+</Notion>
+<Notion type="notion" nodepos="69">
+<Titre nodepos="69"> 1.3 Notion 3 </Titre>
+<Contenu nodepos="69">
+<Texte nodepos="71"> Pour la définition du modèle des contenus structurés, il est indispensable de maitriser la structure interne des contenus. Les travaux de recherche proposent trois modèles de représentation de la structure interne des contenus : Le modèle de représentation physique, le modèle de représentation logique (Vassileva, 1997) (Crozat, 2002) (Halasz and SCHWARTZ, 1994) et le modèle de représentation pédagogique (DUVAL, 2002). Nous proposerons une représentation des contenus structurés sur ces trois volets (physique, logique et pédagogique). </Texte>
+<Table nodepos="73">
+<th>
+<td>
+1
+</td>
+<td>
+2
+</td>
+<td>
+3
+</td>
+<td>
+4
+</td>
+</th>
+<th>
+<td>
+5
+</td>
+<td>
+6
+</td>
+<td>
+7
+</td>
+<td>
+8
+</td>
+</th>
+<th>
+<td>
+9
+</td>
+<td>
+10
+</td>
+<td>
+11
+</td>
+<td>
+12
+</td>
+</th>
+</Table>
+<Texte nodepos="75">    </Texte>
+</Contenu>
+</Notion>
+<Notion type="notion" nodepos="77">
+<Titre nodepos="77"> 1.4 Notion 4 </Titre>
+<Contenu nodepos="77">
+<Texte nodepos="79"> Concernant les propriétés du modèle de contenus, l’étude des travaux de recherche révèle l’existence d’une multitude de standards. Parmi les plus connus, nous pouvons citer Dublin Core, IMS, LOM et SCORM. Chacun de ces standards diffère en fonction des propriétés définies sur les contenus d’apprentissage et en fonction des usages. Après analyse de ces différents standards, nous choisirons celui qui permettra d’expliciter le maximum de propriétés de notre modèle. Ce dernier sera enrichi de nouvelles propriétés. </Texte>
+</Contenu>
+</Notion>
+</Paragraphe>
+<Paragraphe nodepos="81">
+<Titre nodepos="81"> Paragraphe 2 </Titre>
+<Notion type="preambule" nodepos="81"> 
+<Titre> </Titre>
+<Contenu> 
+</Contenu> 
+</Notion> 
+<Notion type="notion" nodepos="83">
+<Titre nodepos="83"> 2.1 Notion 1 </Titre>
+<Contenu nodepos="83">
+<Texte nodepos="85"> Par la suite, nous élaborerons une méthode de structuration des contenus d’apprentissage pour les environnements de formation. La méthode en question, nommée UMSc permettra de rationaliser les procédures de création, de description et d’intégration des contenus d’apprentissage aux plateformes de formation. Elle permettra de construire des contenus interopérables, évolutifs et réutilisables sur la base de ressources atomiques. En autres avantages, elle permettra non seulement de réduire la charge de travail des auteurs, mais aussi d’apporter des solutions aux problèmes de charge cognitive, courants dans les plateformes de formation. </Texte>
+</Contenu>
+</Notion>
+</Paragraphe>
+</Chapitre>
+<Chapitre nodepos="87">
+<Titre nodepos="87"> Chapitre 4. Plan </Titre>
+<Notion type="preambule" nodepos="87"> 
+<Titre> </Titre>
+<Contenu> 
+<Texte nodepos="89">En plus de l’introduction, ce mémoire est organisé comme suit :</Texte>
+<Texte nodepos="91">Le chapitre 2 reprend la définition des concepts d’E-Learning, de charge cognitive, de scénarisation des contenus et d’objet d’apprentissage. Ensuite, il fait l’état de l’art des modèles de représentation des contenus et des standards de gestion des contenus d’apprentissage existants.</Texte>
+<Texte nodepos="93">Le chapitre 3 présente le modèle de représentation des contenus d’apprentissage structurés. Ce dernier est présenté sur ses trois facettes : physiques, logiques et pédagogiques. Une grammaire pour l’auto-scénarisation est déduite de ce modèle et ses propriétés sont analysées.</Texte>
+<Texte nodepos="95">Le chapitre 4 présente la méthode UMSc (Unified Method for Structuring of contents). De la formalisation du modèle de support à l’intégration des contenus structurés à une plateforme de formation en ligne, en passant par le modèle d’agrégation des ressources atomiques composantes et par le modèle de contenus.</Texte>
+<Texte nodepos="97">Le chapitre 5 présente l’atelier de structuration des contenus d’apprentissage xCSM (eXtended Content Structured Module) : Les spécifications fonctionnelles, l’analyse, la conception, l’implémentation, jusqu’à l’étude de cas liée à l’intégration des contenus de type SC (Structured Content) à la plateforme de formation xMoodle.</Texte>
+<Texte nodepos="99">Le chapitre 6 décrit les résultats obtenus après la mise à l’essai de l’atelier xCSM pour la scénarisation des contenus dans le cadre du projet de formation en ligne E-Learning SABC.</Texte>
+<Texte nodepos="101">La conclusion générale dresse d’abord un bilan de nos travaux dans le cadre de l’auto-scénarisation des contenus pour les plateformes d’apprentissage en ligne. Ensuite, nous discutons des possibilités d’applications dans d’autres contextes et enfin, nous abordons les perspectives.</Texte>
+<Texte nodepos="103">  </Texte>
+</Contenu> 
+</Notion> 
+</Chapitre>
+</Partie>
+</Cours>

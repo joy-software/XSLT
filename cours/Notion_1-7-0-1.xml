@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Notion nodepos="87" type="preambule">
+    <Titre/>
+    <Contenu>
+        <Texte nodepos="89">En plus de l’introduction, ce mémoire est organisé comme suit :</Texte>
+        <Texte nodepos="91">Le chapitre 2 reprend la définition des concepts d’E-Learning, de charge cognitive, de scénarisation des contenus et d’objet d’apprentissage. Ensuite, il fait l’état de l’art des modèles de représentation des contenus et des standards de gestion des contenus d’apprentissage existants.</Texte>
+        <Texte nodepos="93">Le chapitre 3 présente le modèle de représentation des contenus d’apprentissage structurés. Ce dernier est présenté sur ses trois facettes : physiques, logiques et pédagogiques. Une grammaire pour l’auto-scénarisation est déduite de ce modèle et ses propriétés sont analysées.</Texte>
+        <Texte nodepos="95">Le chapitre 4 présente la méthode UMSc (Unified Method for Structuring of contents). De la formalisation du modèle de support à l’intégration des contenus structurés à une plateforme de formation en ligne, en passant par le modèle d’agrégation des ressources atomiques composantes et par le modèle de contenus.</Texte>
+        <Texte nodepos="97">Le chapitre 5 présente l’atelier de structuration des contenus d’apprentissage xCSM (eXtended Content Structured Module) : Les spécifications fonctionnelles, l’analyse, la conception, l’implémentation, jusqu’à l’étude de cas liée à l’intégration des contenus de type SC (Structured Content) à la plateforme de formation xMoodle.</Texte>
+        <Texte nodepos="99">Le chapitre 6 décrit les résultats obtenus après la mise à l’essai de l’atelier xCSM pour la scénarisation des contenus dans le cadre du projet de formation en ligne E-Learning SABC.</Texte>
+        <Texte nodepos="101">La conclusion générale dresse d’abord un bilan de nos travaux dans le cadre de l’auto-scénarisation des contenus pour les plateformes d’apprentissage en ligne. Ensuite, nous discutons des possibilités d’applications dans d’autres contextes et enfin, nous abordons les perspectives.</Texte>
+        <Texte nodepos="103">  </Texte>
+    </Contenu>
+</Notion>

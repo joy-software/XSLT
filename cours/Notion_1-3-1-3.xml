@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Notion nodepos="41" type="notion">
+    <Titre nodepos="41"> Notion 2 </Titre>
+    <Contenu nodepos="41">
+        <Texte nodepos="43"> Nous faisons l’hypothèse qu’il serait possible de réduire la charge de travail des auteurs en appliquant l’auto-scénarisation des contenus. Imaginons un scénario où un auteur soumet à un système d’auto-scénarisation un contenu au format .DOC en spécifiant le standard de sortie requis (SCORM par exemple). Après transformation, le système génère un fichier dans le standard souhaité par l’auteur. Ce dernier n’aura plus que quelques ajustements à faire sur la forme du support avant de l’intégrer à son environnement de formation en ligne. La concrétisation d’un tel scénario demande la maitrise de la structure interne des contenus d’apprentissage. </Texte>
+        <image height="2.328cm" nodepos="45" src="1.gif" width="15.767cm"/>
+    </Contenu>
+</Notion>

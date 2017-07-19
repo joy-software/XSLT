@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Notion nodepos="69" type="notion">
+    <Titre nodepos="69"> 1.3 Notion 3 </Titre>
+    <Contenu nodepos="69">
+        <Texte nodepos="71"> Pour la définition du modèle des contenus structurés, il est indispensable de maitriser la structure interne des contenus. Les travaux de recherche proposent trois modèles de représentation de la structure interne des contenus : Le modèle de représentation physique, le modèle de représentation logique (Vassileva, 1997) (Crozat, 2002) (Halasz and SCHWARTZ, 1994) et le modèle de représentation pédagogique (DUVAL, 2002). Nous proposerons une représentation des contenus structurés sur ces trois volets (physique, logique et pédagogique). </Texte>
+        <Table nodepos="73">
+            <th>
+                <td>
+1
+
+
+
+-
+
+
+
+Texte
+
+
+
+
+
+-
+
+
+
+Liste
+
+
+
+
+</td>
+                <td>
+2
+</td>
+                <td>
+3
+</td>
+                <td>
+4
+</td>
+            </th>
+            <th>
+                <td>
+5
+</td>
+                <td>
+6
+</td>
+                <td>
+7
+</td>
+                <td>
+8
+</td>
+            </th>
+            <th>
+                <td>
+9
+</td>
+                <td>
+10
+</td>
+                <td>
+11
+</td>
+                <td>
+12
+</td>
+            </th>
+        </Table>
+        <Texte nodepos="75">    </Texte>
+    </Contenu>
+</Notion>
